@@ -15,3 +15,7 @@ int main(void)
 void sub1(){
 	printf("안녕하세요 저는 최우석입니다.");
 }
+
+void sub3(){
+	puts("00");
+}
